@@ -1,0 +1,2 @@
+# Predictive-Analysis-of-Client-Demographics-and-Behavior-in-Banking-Campaigns
+Analyzed 15+ features across 40,000+ client records using NumPy and Pandas, uncovering significant trends in  demographics and behavior that informed targeted marketing strategies  ▪ Developed visualizations with Matplotlib, effectively communicating insights that enhanced understanding of client  profiles, leading to a 15% improvement 
